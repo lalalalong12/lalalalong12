@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lalalalong
 - 👀 I’m interested in java and other computer knowledge
 - 🌱 I’m currently learning netty and improve my english words library
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on all knids of project
 - 📫 How to reach me ：965972416@qq.com
 
 <!---
